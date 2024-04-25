@@ -1,13 +1,7 @@
-                                           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=000FF000&width=435&lines=CRAWL+MD+WHATSAPP+BOT;Created+By+GAMING+CRAWL" alt="Typing SVG" /></a>
-</p>
 
 <h1 align="center"> CRAWL-MD</h1> 
-<p align="center"> A simple WhatsApp bot with rich features. </p>
 
- 
-<h3 align="center"> <a href="https://github.com/CRAWL001">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
-
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=000000&background=FFFFFF&random=false&width=500&lines=CREATED+BY+GAMING+CRAWL;THIS+IS+COPY+OF+SUHAIL+BOT" alt="Typing SVG" /></a>
 
 
 <p align="center">
