@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=CRAWL+MD+WA+.+BOT;Created+By+CRAWL" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=000FF000&width=435&lines=CRAWL+MD+WHATSAPP+BOT;Created+By+GAMING+CRAWL" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center"> CRAWL-MD</h1> 
