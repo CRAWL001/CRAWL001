@@ -1,7 +1,7 @@
 
 <h1 align="center"> CRAWL-MD</h1> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=000000&background=FFFFFF&random=false&width=500&lines=CREATED+BY+GAMING+CRAWL;WEB+CODING+WITH+CRAWL" alt="Typing SVG" /></a>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＣＲＡＷＬ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
